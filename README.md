@@ -6,7 +6,7 @@ How to use
 <h2>To use the Car Inventory Application, follow these steps:</h2>
 
 <ol>
-    <li>Run the application by typing ruby in the command line ```ruby car_inventory_main.rb```</li>
+    <li>Run the application by typing ruby in the command line <strong>ruby car_inventory_main.rb</strong></li>
     <li>Select a car make and model from the available options.</li>
     <li>Enter your full name, mobile number, and delivery address when prompted.</li>
     <li>Confirm your selection and customer information.</li>
@@ -18,8 +18,8 @@ How to use
 
 The Car Inventory Application includes the following BMW cars:
 <ul>
-    <li>BMW 3 Series<li>
-    <li>BMW 5 Series<li>
+    <li>BMW 3 Series</li>
+    <li>BMW 5 Series</li>
     <li>BMW X5</li>
 </ul>
 Each car has its own color, year, price, and available quantity.
